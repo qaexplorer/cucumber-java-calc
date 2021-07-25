@@ -1,6 +1,6 @@
-package com.xray.tutorials;
+package cucumber;
 
-public class Calculator
+public class Demo
 {
 
 // Square function
